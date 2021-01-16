@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<resources>
+		<string-array name="questions">
+			<item>computer's input device is</item>
+			<item>computer's input device is</item>
+			<item>computer's input device is</item>
+			<item>computer's input device is</item>
+			<item>computer's input device is</item>
+			<item>computer's input device is</item>
+			<item>computer's input device is</item>
+			<item>computer's input device is</item>
+			<item>computer's input device is</item>
+			<item>computer's input device is</item>
+		</string-array>
+
+		<string-array name="options">
+			<item>keyboard</item>
+			<item>printer</item>
+			<item>speaker</item>
+			<item>monitor</item>
+			<item>keyboard</item>
+			<item>printer</item>
+			<item>speaker</item>
+			<item>monitor</item>
+			<item>keyboard</item>
+			<item>printer</item>
+			<item>speaker</item>
+			<item>monitor</item>
+			<item>keyboard</item>
+			<item>printer</item>
+			<item>speaker</item>
+			<item>monitor</item>
+			<item>keyboard</item>
+			<item>printer</item>
+			<item>speaker</item>
+			<item>monitor</item>
+			<item>keyboard</item>
+			<item>printer</item>
+			<item>speaker</item>
+			<item>monitor</item>
+			<item>keyboard</item>
+			<item>printer</item>
+			<item>speaker</item>
+			<item>monitor</item>
+			<item>keyboard</item>
+			<item>printer</item>
+			<item>speaker</item>
+			<item>monitor</item>
+			<item>keyboard</item>
+			<item>printer</item>
+			<item>speaker</item>
+			<item>monitor</item>
+			<item>keyboard</item>
+			<item>printer</item>
+			<item>speaker</item>
+			<item>monitor</item>
+		</string-array>
+
+	<string-array name="answers">
+		<item>keyboard</item>
+		<item>keyboard</item>
+		<item>keyboard</item>
+		<item>keyboard</item>
+		<item>keyboard</item>
+		<item>keyboard</item>
+		<item>keyboard</item>
+		<item>keyboard</item>
+		<item>keyboard</item>
+		<item>keyboard</item>
+	</string-array>
+
+	</resources>
